@@ -3,9 +3,7 @@
 Plugin Name: Sitemap Support
 Plugin URI: http://www.germanprobashe.com
 Description: URL-List for Google to crawl. Usage: http://www.example.com/?sitemap=sitemap
-Version: 4.0
-2.0: Support for amp pages
-1.0: Initial version
+Version: 4.1
 */
 
 function g24ekdl2389_sitemap_callback() {
